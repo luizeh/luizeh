@@ -66,31 +66,42 @@ hobby: Analisar álbuns musicais 🎵
 
 # `TECNOLOGIAS`
 
-**— Linguagens Atuais —**
+<h3>— Linguagens Atuais —</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-1a2a35?style=for-the-badge&logo=html5&logoColor=a8c9dd)
-![CSS3](https://img.shields.io/badge/CSS3-1a2a35?style=for-the-badge&logo=css3&logoColor=a8c9dd)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a2a35?style=for-the-badge&logo=javascript&logoColor=a8c9dd)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1a2a35?style=for-the-badge&logo=html5&logoColor=a8c9dd" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1a2a35?style=for-the-badge&logo=css3&logoColor=a8c9dd" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a2a35?style=for-the-badge&logo=javascript&logoColor=a8c9dd" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-253545?style=for-the-badge&logo=php&logoColor=a8c9dd" alt="PHP"/>
+</p>
 
-**— Ferramentas —**
+<br>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge&logo=bootstrap&logoColor=d9ecf6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge&logo=tailwindcss&logoColor=d9ecf6)
-![VS Code](https://img.shields.io/badge/VS%20Code-6b8fa3?style=for-the-badge)
-![GIMP](https://img.shields.io/badge/GIMP-6b8fa3?style=for-the-badge&logo=gimp&logoColor=d9ecf6)
+<h3>— Ferramentas —</h3>
 
-**— Pretendo Aprender —**
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge&logo=bootstrap&logoColor=d9ecf6" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge&logo=tailwindcss&logoColor=d9ecf6" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/VS%20Code-6b8fa3?style=for-the-badge&logo=visualstudiocode&logoColor=d9ecf6" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/GIMP-6b8fa3?style=for-the-badge&logo=gimp&logoColor=d9ecf6" alt="GIMP"/>
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-253545?style=for-the-badge&logo=php&logoColor=a8c9dd)
-![SQL](https://img.shields.io/badge/SQL-253545?style=for-the-badge&logo=mysql&logoColor=a8c9dd)
-![Java](https://img.shields.io/badge/Java-253545?style=for-the-badge&logo=openjdk&logoColor=a8c9dd)
-![Python](https://img.shields.io/badge/Python-253545?style=for-the-badge&logo=python&logoColor=a8c9dd)
-![React](https://img.shields.io/badge/React-253545?style=for-the-badge&logo=react&logoColor=a8c9dd)
-![Laravel](https://img.shields.io/badge/Laravel-253545?style=for-the-badge&logo=laravel&logoColor=a8c9dd)
+<br>
+
+<h3>— Pretendo Aprender —</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-253545?style=for-the-badge&logo=mysql&logoColor=a8c9dd" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-253545?style=for-the-badge&logo=openjdk&logoColor=a8c9dd" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-253545?style=for-the-badge&logo=python&logoColor=a8c9dd" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-253545?style=for-the-badge&logo=react&logoColor=a8c9dd" alt="React"/>
+  <img src="https://img.shields.io/badge/Laravel-253545?style=for-the-badge&logo=laravel&logoColor=a8c9dd" alt="Laravel"/>
+</p>
 
 </div>
 
-<!-- DIVISOR -->
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a2a35,a8c9dd&height=2&section=header" width="100%"/>
 
 <!-- Contribuições -->
@@ -101,7 +112,7 @@ hobby: Analisar álbuns musicais 🎵
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luizeh&theme=dark&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=luizeh&theme=dark&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
 <br><br>
 
 </div>

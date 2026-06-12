@@ -33,8 +33,7 @@
 <!-- LINKS PRINCIPAIS -->
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/portfolio-oficial)
-&nbsp;
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/selection)
 [![Contato](https://img.shields.io/badge/✉️_CONTATO-d9ecf6?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=d9ecf6)](https://mail.google.com/mail/?view=cm&fs=1&to=luisricardosoares34@gmail.com)
 
 </div>
@@ -53,7 +52,7 @@
 # ── LUIZEH.config ──────────────────────────────────────
 nome: Luís Ricardo Soares
 localização: brasil 🇧🇷
-aprendendo: Javascript
+aprendendo: PHP e SQL
 hobby: Analisar álbuns musicais 🎵
 # ───────────────────────────────────────────────────────
 ```

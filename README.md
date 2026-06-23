@@ -111,6 +111,8 @@ hobby: Analisar álbuns musicais 🎵
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeh&layout=compact&langs_count=8&bg_color=1a2a35&title_color=a8c9dd&text_color=d9ecf6&border_color=6b8fa3&icon_color=a8c9dd&hide_border=false"/> 
+<br><br>
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=luizeh&theme=dark&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
 <br><br>
 

@@ -33,13 +33,12 @@
 <!-- LINKS PRINCIPAIS -->
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/selection)
+[![Portfólio](https://img.shields.io/badge/🌐_PORTFÓLIO-a8c9dd?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=a8c9dd)](https://luizeh.github.io/Portfolio-Oficial/)
 [![Contato](https://img.shields.io/badge/✉️_CONTATO-d9ecf6?style=for-the-badge&logoColor=1a2a35&labelColor=6b8fa3&color=d9ecf6)](https://mail.google.com/mail/?view=cm&fs=1&to=luisricardosoares34@gmail.com)
 
 </div>
 
-<!-- DIVISOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a2a35,a8c9dd&height=2&section=header" width="100%"/>
+---
 
 <!-- SOBRE MIM -->
 <div align="center">
@@ -52,13 +51,15 @@
 # ── LUIZEH.config ──────────────────────────────────────
 nome: Luís Ricardo Soares
 localização: brasil 🇧🇷
-aprendendo: PHP e SQL
+aprendendo: React e Laravel
 hobby: Analisar álbuns musicais 🎵
 # ───────────────────────────────────────────────────────
 ```
 
-<!-- DIVISOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,a8c9dd,1a2a35&height=2&section=header" width="100%"/>
+<br>
+
+---
+
 
 <!-- TECNOLOGIAS -->
 <div align="center">
@@ -72,6 +73,8 @@ hobby: Analisar álbuns musicais 🎵
   <img src="https://img.shields.io/badge/CSS3-1a2a35?style=for-the-badge&logo=css3&logoColor=a8c9dd" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-1a2a35?style=for-the-badge&logo=javascript&logoColor=a8c9dd" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-253545?style=for-the-badge&logo=php&logoColor=a8c9dd" alt="PHP"/>
+  <img src="https://img.shields.io/badge/SQL-1a2a35?style=for-the-badge&logo=mysql&logoColor=a8c9dd" alt="SQL"/>
+  <img src="https://img.shields.io/badge/React-1a2a35?style=for-the-badge&logo=react&logoColor=a8c9dd" alt="React"/>
 </p>
 
 <br>
@@ -79,6 +82,9 @@ hobby: Analisar álbuns musicais 🎵
 <h3>— Ferramentas —</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-6b8fa3?style=for-the-badge&logo=git&logoColor=d9ecf6" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-6b8fa3?style=for-the-badge&logo=github&logoColor=d9ecf6" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Composer-6b8fa3?style=for-the-badge&logo=composer&logoColor=d9ecf6" alt="Composer"/>
   <img src="https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge&logo=bootstrap&logoColor=d9ecf6" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge&logo=tailwindcss&logoColor=d9ecf6" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/VS%20Code-6b8fa3?style=for-the-badge&logo=visualstudiocode&logoColor=d9ecf6" alt="VS Code"/>
@@ -90,10 +96,9 @@ hobby: Analisar álbuns musicais 🎵
 <h3>— Pretendo Aprender —</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-253545?style=for-the-badge&logo=mysql&logoColor=a8c9dd" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Java-253545?style=for-the-badge&logo=openjdk&logoColor=a8c9dd" alt="Java"/>
+  <img src="https://img.shields.io/badge/Docker-253545?style=for-the-badge&logo=docker&logoColor=a8c9dd" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-253545?style=for-the-badge&logo=linux&logoColor=a8c9dd" alt="Linux"/>
   <img src="https://img.shields.io/badge/Python-253545?style=for-the-badge&logo=python&logoColor=a8c9dd" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-253545?style=for-the-badge&logo=react&logoColor=a8c9dd" alt="React"/>
   <img src="https://img.shields.io/badge/Laravel-253545?style=for-the-badge&logo=laravel&logoColor=a8c9dd" alt="Laravel"/>
 </p>
 
@@ -101,7 +106,7 @@ hobby: Analisar álbuns musicais 🎵
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,1a2a35,a8c9dd&height=2&section=header" width="100%"/>
+---
 
 <!-- Contribuições -->
 
@@ -110,9 +115,7 @@ hobby: Analisar álbuns musicais 🎵
 # `ESTATÍSTICAS`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizeh&layout=compact&langs_count=8&bg_color=1a2a35&title_color=a8c9dd&text_color=d9ecf6&border_color=6b8fa3&icon_color=a8c9dd&hide_border=false"/> 
-<br><br>
+<br>
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=luizeh&theme=dark&background=0d1117&border=21262d&ring=a8c9dd&fire=a8c9dd&currStreakLabel=a8c9dd&sideLabels=a8c9dd&sideNums=ffffff&currStreakNum=ffffff&dates=8b949e" width="68%"/>
 <br><br>
 

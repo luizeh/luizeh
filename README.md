@@ -50,9 +50,8 @@
 ```yaml
 # ── LUIZEH.config ──────────────────────────────────────
 nome: Luís Ricardo Soares
-localização: brasil 🇧🇷
+localização: Douradina-PR Brasil
 aprendendo: React e Laravel
-hobby: Analisar álbuns musicais 🎵
 # ───────────────────────────────────────────────────────
 ```
 
@@ -64,42 +63,14 @@ hobby: Analisar álbuns musicais 🎵
 <!-- TECNOLOGIAS -->
 <div align="center">
 
-# `TECNOLOGIAS`
-
-<h3>— Linguagens Atuais —</h3>
+ ### `TECNOLOGIAS`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-1a2a35?style=for-the-badge&logo=html5&logoColor=a8c9dd" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1a2a35?style=for-the-badge&logo=css3&logoColor=a8c9dd" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-1a2a35?style=for-the-badge&logo=javascript&logoColor=a8c9dd" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-253545?style=for-the-badge&logo=php&logoColor=a8c9dd" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-1a2a35?style=for-the-badge&logo=mysql&logoColor=a8c9dd" alt="SQL"/>
-  <img src="https://img.shields.io/badge/React-1a2a35?style=for-the-badge&logo=react&logoColor=a8c9dd" alt="React"/>
-</p>
-
-<br>
-
-<h3>— Ferramentas —</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-6b8fa3?style=for-the-badge&logo=git&logoColor=d9ecf6" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-6b8fa3?style=for-the-badge&logo=github&logoColor=d9ecf6" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Composer-6b8fa3?style=for-the-badge&logo=composer&logoColor=d9ecf6" alt="Composer"/>
-  <img src="https://img.shields.io/badge/Bootstrap-6b8fa3?style=for-the-badge&logo=bootstrap&logoColor=d9ecf6" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind-6b8fa3?style=for-the-badge&logo=tailwindcss&logoColor=d9ecf6" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/VS%20Code-6b8fa3?style=for-the-badge&logo=visualstudiocode&logoColor=d9ecf6" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GIMP-6b8fa3?style=for-the-badge&logo=gimp&logoColor=d9ecf6" alt="GIMP"/>
-</p>
-
-<br>
-
-<h3>— Pretendo Aprender —</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-253545?style=for-the-badge&logo=docker&logoColor=a8c9dd" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-253545?style=for-the-badge&logo=linux&logoColor=a8c9dd" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-253545?style=for-the-badge&logo=python&logoColor=a8c9dd" alt="Python"/>
-  <img src="https://img.shields.io/badge/Laravel-253545?style=for-the-badge&logo=laravel&logoColor=a8c9dd" alt="Laravel"/>
+<kbd><img src="spacer.png" width="220" height="1" alt=""/><br><code>LINGUAGENS</code><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="PHP"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/><br><br></kbd>
+&nbsp;
+<kbd><img src="spacer.png" width="220" height="1" alt=""/><br><code>FRAMEWORKS / BIBLIOTECAS</code><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="48" alt="Laravel"/><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="Bootstrap"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS"/><br><br></kbd>
+&nbsp;
+<kbd><img src="spacer.png" width="220" height="1" alt=""/><br><code>FERRAMENTAS</code><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>&nbsp;<img src="https://cdn.simpleicons.org/github/ffffff" height="44" alt="GitHub"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="48" alt="Composer"/><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="48" alt="GIMP"/><br><br></kbd>
 </p>
 
 </div>
@@ -112,7 +83,7 @@ hobby: Analisar álbuns musicais 🎵
 
 <div align="center">
 
-# `ESTATÍSTICAS`
+### `ESTATÍSTICAS`
 
 <div align="center">
 <br>

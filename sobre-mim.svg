@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-label="Sobre mim: Luís Ricardo Soares, desenvolvedor em formação de Douradina-PR, em prática profissional na Gazin Tech.">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a2a3a"/>
+      <stop offset="0.5" stop-color="#6b8fa3"/>
+      <stop offset="1" stop-color="#a8c9dd"/>
+    </linearGradient>
+    <linearGradient id="gradV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a8c9dd" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#6b8fa3"/>
+      <stop offset="1" stop-color="#a8c9dd" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="1" y="1" width="998" height="338" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; }
+    .eyebrow { font-size: 13px; fill: #6b8fa3; letter-spacing: 3px; }
+    .name { font-size: 36px; font-weight: 700; fill: #d9ecf6; }
+    .role { font-size: 17px; fill: #a8c9dd; }
+    .body { font-size: 16px; fill: #c9d1d9; }
+    .strong { font-weight: 600; fill: #d9ecf6; }
+    .label { font-size: 11px; fill: #6b8fa3; letter-spacing: 2px; }
+    .value { font-size: 16px; fill: #e6edf3; }
+    .bar { font-size: 13px; fill: #8b949e; }
+
+    .fade { opacity: 0; animation: fadeUp 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; }
+    .d2 { animation-delay: 0.3s; }
+    .d3 { animation-delay: 0.5s; }
+    .d4 { animation-delay: 0.7s; }
+    .d5 { animation-delay: 0.9s; }
+    .d6 { animation-delay: 1.1s; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .fade { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <!-- cartão -->
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1000" height="340" fill="#0d1117"/>
+    <rect x="0" y="0" width="1000" height="44" fill="#161b22"/>
+    <rect x="0" y="44" width="1000" height="1" fill="#21262d"/>
+    <rect x="0" y="336" width="1000" height="4" fill="url(#grad)"/>
+  </g>
+  <rect x="1" y="1" width="998" height="338" rx="14" fill="none" stroke="#21262d" stroke-width="1.5"/>
+
+  <!-- barra de janela -->
+  <circle cx="28" cy="22" r="6" fill="#6b8fa3"/>
+  <circle cx="48" cy="22" r="6" fill="#a8c9dd"/>
+  <circle cx="68" cy="22" r="6" fill="#d9ecf6"/>
+  <text x="500" y="27" text-anchor="middle" class="mono bar">~/luizeh/sobre-mim</text>
+
+  <!-- coluna esquerda -->
+  <g class="fade d1"><text x="48" y="94" class="mono eyebrow">OLÁ! EU SOU O</text></g>
+  <g class="fade d2"><text x="48" y="136" class="sans name">Luís Ricardo Soares</text></g>
+  <g class="fade d3">
+    <text x="48" y="166" class="sans role">Desenvolvedor em formação de Douradina-PR.</text>
+    <rect x="48" y="184" width="96" height="3" rx="1.5" fill="url(#grad)"/>
+  </g>
+  <g class="fade d4">
+    <text x="48" y="226" class="sans body">Atualmente faço <tspan class="strong">prática profissional na Gazin Tech</tspan>,</text>
+    <text x="48" y="252" class="sans body">aplicando no dia a dia o que venho estudando</text>
+    <text x="48" y="278" class="sans body">sobre desenvolvimento web.</text>
+  </g>
+
+  <!-- divisória -->
+  <rect x="610" y="74" width="1.5" height="236" fill="url(#gradV)"/>
+
+  <!-- coluna direita -->
+  <g class="fade d3">
+    <circle cx="650" cy="112" r="4" fill="#a8c9dd"/>
+    <text x="666" y="116" class="mono label">ATUALMENTE</text>
+    <text x="666" y="140" class="sans value">Prática profissional · Gazin Tech</text>
+  </g>
+  <g class="fade d4">
+    <circle cx="650" cy="178" r="4" fill="#a8c9dd"/>
+    <text x="666" y="182" class="mono label">LOCALIZAÇÃO</text>
+    <text x="666" y="206" class="sans value">Douradina-PR, Brasil</text>
+  </g>
+  <g class="fade d5">
+    <circle cx="650" cy="244" r="4" fill="#a8c9dd"/>
+    <text x="666" y="248" class="mono label">FOCO</text>
+    <text x="666" y="272" class="sans value">Desenvolvimento web</text>
+  </g>
+</svg>
